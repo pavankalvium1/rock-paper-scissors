@@ -12,13 +12,11 @@ body{
     color: white;
     font-size: 100px;
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
 }
 #gameArea{
     position: relative;
     left: 110px;
     display: grid;
-    grid-template-columns: repeat(3,auto);
 }
 #playArea{
     border: 2px solid yellow;
@@ -30,7 +28,6 @@ body{
     text-align: center;
     font-weight: 900;
     font-size: 30px;
-    font-family: "Permanent Marker",'Times New Roman', Times, serif;
 }
 #image1,#image2{
     width: 450px;
